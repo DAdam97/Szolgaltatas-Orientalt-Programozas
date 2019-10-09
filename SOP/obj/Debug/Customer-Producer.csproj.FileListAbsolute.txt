@@ -1,0 +1,6 @@
+C:\Users\Ádám\source\repos\SOP\SOP\bin\Debug\SOP.exe.config
+C:\Users\Ádám\source\repos\SOP\SOP\bin\Debug\SOP.exe
+C:\Users\Ádám\source\repos\SOP\SOP\bin\Debug\SOP.pdb
+C:\Users\Ádám\source\repos\SOP\SOP\obj\Debug\Customer-Producer.csprojAssemblyReference.cache
+C:\Users\Ádám\source\repos\SOP\SOP\obj\Debug\SOP.exe
+C:\Users\Ádám\source\repos\SOP\SOP\obj\Debug\SOP.pdb
